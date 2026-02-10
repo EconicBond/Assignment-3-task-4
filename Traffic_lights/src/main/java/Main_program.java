@@ -28,7 +28,7 @@ public class Main_program {
 		{
 			APressedStart = System.currentTimeMillis();
 			robot.fillUnderlights(yellow);
-			
+			robot.startMove(0, 0);
 		}
 	}
 	}
