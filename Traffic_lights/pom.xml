@@ -12,11 +12,12 @@
     </repository>
 </repositories>
 
-  
-  <dependency>
-  <groupId>com.swiftbotlabs</groupId>
-  <artifactId>SwiftBot-API</artifactId>
-  <version>6.0.0</version>
-</dependency>
-  
+<dependencies>
+    <dependency>
+        <groupId>com.swiftbotlabs</groupId>
+        <artifactId>SwiftBot-API</artifactId>
+        <version>6.0.0</version>
+    </dependency>
+</dependencies>
+
 </project>
