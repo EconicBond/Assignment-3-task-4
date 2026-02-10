@@ -18,6 +18,10 @@ public class Main_program {
 		});
 		if (a[0] == true)
 		{
+<<<<<<< HEAD
+=======
+			APressedStart = System.currentTimeMillis();
+>>>>>>> parent of a18e3ae (Setting underlights to yellow)
 			
 		}
 	}
