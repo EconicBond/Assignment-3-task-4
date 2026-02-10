@@ -28,10 +28,7 @@ public class Main_program {
 		{
 			APressedStart = System.currentTimeMillis();
 			
-<<<<<<< HEAD
 			
-=======
->>>>>>> parent of a18e3ae (Setting underlights to yellow)
 		}
 	}
 	}
