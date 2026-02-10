@@ -4,11 +4,14 @@
   <artifactId>Traffic_lights</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <repository>
-  <id>reposilite-repository-releases</id>
-  <name>Swiftbot Maven</name>
-  <url>https://swiftbot-maven.brunel.ac.uk/releases</url>
-</repository>
+<repositories>
+    <repository>
+        <id>reposilite-repository-releases</id>
+        <name>Swiftbot Maven</name>
+        <url>https://swiftbot-maven.brunel.ac.uk/releases</url>
+    </repository>
+</repositories>
+
   
   <dependency>
   <groupId>com.swiftbotlabs</groupId>
