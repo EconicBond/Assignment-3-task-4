@@ -22,12 +22,15 @@ public class Main_program {
 		    // This code runs when button A is pressed
 		    a[0] = true;
 		});
+		while (a[0] = false)
+		{
 		if (a[0] == true)
 		{
 			APressedStart = System.currentTimeMillis();
 			
 			
 		}
+	}
 	}
 
 }
