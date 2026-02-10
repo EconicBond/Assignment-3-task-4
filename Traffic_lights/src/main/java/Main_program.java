@@ -1,4 +1,4 @@
-import swiftbot.SwiftBotAPI;
+import swiftbot.*;
 
 public class Main_program {
 
@@ -6,6 +6,9 @@ public class Main_program {
 		// TODO Auto-generated method stub
 		SwiftBotAPI robot = SwiftBotAPI.INSTANCE;
 		System.out.println("Welcome \n Please press A to start");
+		robot.enableButton(Button.B, () -> {
+		    // This code runs when button A is pressed
+		};
 	}
 
 }
