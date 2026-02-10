@@ -27,7 +27,7 @@ public class Main_program {
 		if (a[0] == true)
 		{
 			APressedStart = System.currentTimeMillis();
-			
+			robot.fillUnderlights(yellow);
 			
 		}
 	}
