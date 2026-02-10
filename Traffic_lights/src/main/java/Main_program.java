@@ -6,9 +6,10 @@ public class Main_program {
 		// TODO Auto-generated method stub
 		SwiftBotAPI robot = SwiftBotAPI.INSTANCE;
 		System.out.println("Welcome \n Please press A to start");
-		robot.enableButton(Button.B, () -> {
+		robot.enableButton(Button.A, () -> {
 		    // This code runs when button A is pressed
-		};
+		    a[0] = true;
+		});
 	}
 
 }
