@@ -16,6 +16,10 @@ public class Main_program {
 		    // This code runs when button A is pressed
 		    a[0] = true;
 		});
+		if (a[0] == true)
+		{
+			
+		}
 	}
 
 }
